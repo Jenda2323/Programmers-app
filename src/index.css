@@ -1,0 +1,20 @@
+@font-face {
+  font-family: "RetroPus";
+  src: url("./fonts/04B_30__.TTF");
+}
+h1,
+h2 {
+  font-family: "RetroPlus";
+}
+@media (max-width: 768px) {
+  h1 {
+    font-size: 1.75rem;
+    margin-bottom: 15px;
+    text-align: center;
+  }
+  h2 {
+    font-size: 1.25rem;
+    margin-bottom: 10px;
+    text-align: center;
+  }
+}

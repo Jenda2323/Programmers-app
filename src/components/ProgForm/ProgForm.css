@@ -5,3 +5,11 @@
   justify-content: space-between;
   align-items: center;
 }
+@media (max-width: 768px) {
+  .prog-form {
+    flex-direction: column;
+    width: 100%;
+    margin: 20px 0;
+    align-items: flex-start;
+  }
+}
