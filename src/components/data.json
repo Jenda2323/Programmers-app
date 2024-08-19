@@ -1,0 +1,29 @@
+{
+   "programmer": [
+      {
+         "id": 1,
+         "name": "Jan Fiser",
+         "position": "Senior"
+      },
+      {
+         "id": 2,
+         "name": "Arnold Stalonne",
+         "position": "Junior"
+      },
+      {
+         "id": 3,
+         "name": "Bob Bobek",
+         "position": "Senior"
+      },
+      {
+         "id": 4,
+         "name": "Jirina Bohdalova",
+         "position": "Senior"
+      },
+      {
+         "id": 5,
+         "name": "Pepa Zdepa",
+         "position": "Junior"
+      }
+   ]
+}

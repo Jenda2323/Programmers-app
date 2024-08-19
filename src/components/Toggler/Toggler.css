@@ -1,0 +1,22 @@
+.page-toggler {
+   display: flex;
+   width: 500px;
+   margin: 50px 0;
+   padding-top: 0;
+   justify-content: center;
+   margin: 30px 0;
+   height: 40px;
+}
+
+.toggler-btn {
+   height: 100%;
+   width: 48%;
+   border: 3px solid black;
+   color: black;
+   font-size: 20px;
+   cursor: pointer;
+}
+
+.active {
+   background-color: rgba(44, 185, 19, 0.6);
+}
